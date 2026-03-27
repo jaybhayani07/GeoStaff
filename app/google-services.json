@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742062782986",
+    "project_id": "geostaff-b0d66",
+    "storage_bucket": "geostaff-b0d66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742062782986:android:3f7f75521b5e92a055bdf3",
+        "android_client_info": {
+          "package_name": "com.example.geostaff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOT9ICc9LH-15x0bm6_Qw_5ZWcQcKtsog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
